@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323627399154",
+    "project_id": "phone-firebase-652d4",
+    "storage_bucket": "phone-firebase-652d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323627399154:android:c86679f160b43464661d6b",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWOdxIW6Y5brUZz6RMed68fbmRdIV1NHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
